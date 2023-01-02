@@ -346,7 +346,7 @@ const sections = [
         {title: `ℹ️ ${pmenus} Info`, rowId: ".? info", description: "Info info BOT"},
         {title: `👩‍💻 ${pmenus} Owner`, rowId: ".? owner", description: "Owner Only!"},
         {title: `❓ ${pmenus} No Category`, rowId: ".? nocategory", description: "Fitur tanpa kategory!"},
-       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe yt ZykoBotz-MD official 🌝"},
+       {title: `⏲️ ${pmenus} SUBSCRIBE YT`, rowId: ".zyko-md", description: "Jangan Lupa Subscribe yt adrianpreset03🌝"},
         ]
         },
 ]
@@ -404,7 +404,7 @@ ${clockStringP(usrs.premiumTime - new Date())}` : ''}
 │ ▸ 𝗧𝗶𝗺𝗲 : ${wktuwib}
 │ ▸ 𝗨𝗽𝘁𝗶𝗺𝗲 : ${mpt}
 └┬━━━━━━━━━━━━━━━━┈─⋆
-  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : YouTube ZykoBotz-MD Official 
+  │ ▸ 𝗦𝘂𝗺𝗯𝗲𝗿 : GITHUB "AzzyGota"
   │ ▸ 𝗔𝘂𝘁𝗵𝗼𝗿 : ${nameown}
   │ ▸ 𝗢𝘄𝗻𝗲𝗿 : ${nameown}
   └━━━━━━━━━━━━━━━━┈─◂`
@@ -502,9 +502,18 @@ let fvn = {quoted: { key: {participant : '0@s.whatsapp.net'},message: { "audioMe
   }
   }
   
-    let urls = pickRandom(['https://telegra.ph/file/035e524939ab0294ba91f.jpg', 'https://telegra.ph/file/96b2275d3b14d071290bc.jpg', 'https://telegra.ph/file/2c6b7660bc6126404a9bb.jpg', 'https://telegra.ph/file/c635bf577bb9d59a3e00b.jpg', 'https://telegra.ph/file/be8dd52f6363f9e9f5a60.jpg', 'https://telegra.ph/file/02e53361b9dc946f63c8d.jpg', 'https://telegra.ph/file/298ed2f1bba17aeb64ca8.jpg', 'https://telegra.ph/file/be2a18221974147f66ea0.jpg'])
+    let urls = pickRandom(['https://telegra.ph/file/ba68723bf59ecbd2fd407.jpg'
+'https://telegra.ph/file/b3dbb0162205bc417d05c.jpg'
+'https://telegra.ph/file/27accc6de818f8bd2eda8.jpg'
+'https://telegra.ph/file/08ae4464dfd3cc051a230.jpg'
+'https://telegra.ph/file/896867949807ddbecbe81.jpg'
+'https://telegra.ph/file/a89f45928da44c2b2d8bd.jpg'
+'https://telegra.ph/file/f84cc7287397c283c0ab4.jpg'
+'https://telegra.ph/file/b17fb6ab139767856cf06.jpg'
+'https://telegra.ph/file/2c92507dbadf5a05c41c6.jpg'
+'https://telegra.ph/file/35e1b80cf780eab2e1151.jpg'])
   
-    const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => 'https://telegra.ph/file/24fa902ead26340f3df2c.png')
+    const pp = await conn.profilePictureUrl(conn.user.jid).catch(_ => 'https://telegra.ph/file/896867949807ddbecbe81.jpg')
     
     //FAKE TROLI
 
@@ -611,7 +620,7 @@ ptt: false, seconds: 0,contextInfo: {
  	  /*   sourceUrl: sig,
            title: '◄⟬ ●━━━ ⧏ ⧎ ⧐ ━━━● ⟭►',  
             body: 'Now Playing...', 
-           thumbnail: await (await fetch('https://telegra.ph/file/c72133b197a68d3ea514d.jpg')).buffer()*/
+           thumbnail: await (await fetch('https://telegra.ph/file/896867949807ddbecbe81.jpg')).buffer()*/
 }
      }
     })
@@ -664,15 +673,15 @@ let d5 = 'text/rtf'
 let td = `${pickRandom([d1,d2,d3,d4,d5])}`
 let ᴛᴇs = `Pᴏᴡᴇʀ Bʏ ⬝ @${nomorwa.split`@`[0]}\nCʀᴇᴀᴛᴏʀ Bᴏᴛ ⬝ @${nomorown1.split`@`[0]}\n⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 let thummb = fs.readFileSync('./thumbnail.jpg')
-conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/4ece0195006cf1bc508ea.mp4', `${namebot}`, floor + text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/2485dc6c0abee505ad01f.mp4', `${namebot}`, floor + text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'https://www.instagram.com/kabulsaputra21',
     mediaType: 2, 
     description: sgc,
-    title: "ᴢ ʏ ᴋ ᴏ ʙ ᴏ ᴛ ᴢ ᴍ ᴅ ᴍ ᴜ ʟ ᴛ ɪ ᴅ ᴇ ᴠ ɪ ᴄ ᴇ",
+    title: "𝙰 𝚍 𝚛 𝚒 𝚊 𝚗 𝚇 𝙽 𝚊 𝚒 𝚜 𝚊",
     body: bottime,
     thumbnail: await (await fetch(pp)).buffer(),
     sourceUrl: sig
-/*conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/4ece0195006cf1bc508ea.mp4', `╭──═[ INFO USER ]═──⋆\n┊   ╭────────────···\n┊   │☂︎ *${ucapann()}* @${m.sender.split`@`[0]}\n┊   │☂︎ *Name:* ${usrs.registered ? usrs.name : conn.getName(m.sender)}\n┊   │☂︎ *Tag:* @${m.sender.split`@`[0]}\n┊   │☂︎ *Premium:* ${usrs.premiumTime > 1 ? 'Yes': 'No'}\n┊   │☂︎ *Limit:* ${usrs.limit}\n┊   │☂︎ *Money:* ${money}\n┊   │☂︎ *Role:* ${role}\n┊   │☂︎ *Level:* ${usrs.level}\n┊   │☂︎ *Aʟʟ Fɪᴛᴜʀ:* ${totalf}\n┊   ╰─────────────···\n╰───────═┅═───────\n⃝▣──「 *INFO CMD* 」───⬣\n│ *Ⓟ* = Premium\n│ *Ⓛ* = Limit\n▣────────────⬣`, text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
+/*conn.send3ButtonVid(m.chat, 'https://telegra.ph/file/2485dc6c0abee505ad01f.mp4', `╭──═[ INFO USER ]═──⋆\n┊   ╭────────────···\n┊   │☂︎ *${ucapann()}* @${m.sender.split`@`[0]}\n┊   │☂︎ *Name:* ${usrs.registered ? usrs.name : conn.getName(m.sender)}\n┊   │☂︎ *Tag:* @${m.sender.split`@`[0]}\n┊   │☂︎ *Premium:* ${usrs.premiumTime > 1 ? 'Yes': 'No'}\n┊   │☂︎ *Limit:* ${usrs.limit}\n┊   │☂︎ *Money:* ${money}\n┊   │☂︎ *Role:* ${role}\n┊   │☂︎ *Level:* ${usrs.level}\n┊   │☂︎ *Aʟʟ Fɪᴛᴜʀ:* ${totalf}\n┊   ╰─────────────···\n╰───────═┅═───────\n⃝▣──「 *INFO CMD* 」───⬣\n│ *Ⓟ* = Premium\n│ *Ⓛ* = Limit\n▣────────────⬣`, text.trim() + `\n` + botdate, 'Menu', '.menu', 'Owner', '.owner', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: 'tautanwa',
     mediaType: tautanwa, 
     description: tautanwa,

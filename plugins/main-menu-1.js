@@ -43,12 +43,12 @@ let wib = moment.tz('Asia/Jakarta').format('HH:mm:ss')
     })
 //==============> Menu nya
 let kabul = `*ʙᴏᴛ* *ʙᴜɪʟᴅ-ᴏᴘᴇʀᴀᴛᴇ-ᴛʀᴀɴsғᴇʀ* _ᴀᴅᴀʟᴀʜ ᴘʀᴏɢʀᴀᴍ ᴋᴏᴍᴘᴜᴛᴇʀ ʏᴀɴɢ ᴅɪᴊᴀʟᴀɴᴋᴀɴ ᴅɪ ᴡʜᴀᴛsᴀᴘᴘ ʏᴀɴɢ ᴋʜᴜsᴜs ᴅɪʙᴜᴀᴛ ᴜɴᴛᴜᴋ ᴍᴇʟᴀᴋᴜᴋᴀɴ ᴘᴇᴋᴇʀᴊᴀᴀɴ-ᴘᴇᴋᴇʀᴊᴀᴀɴ ᴏᴛᴏᴍᴀᴛɪs, ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ᴅɪʀᴀɴᴄᴀɴɢ sᴇᴅᴇᴍɪᴋɪᴀɴ ʀᴜᴘᴀ sᴇʜɪɴɢɢᴀ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴇɴɢᴀɴ ɴʏᴀᴍᴀɴ, ᴅᴀɴ ᴋᴇᴍᴜɴɢᴋɪɴᴀɴ ᴍᴇᴍɪʟɪᴋɪ sᴇᴅɪᴋɪᴛ ʙᴜɢ, ᴀᴅᴀɴʏᴀ ғɪᴛᴜʀ ᴅᴀʀɪ ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ ɪɴɪ ᴛᴇɴᴛᴜ ᴀᴋᴀɴ ᴍᴇᴍʙᴀɴᴛᴜ ᴀɴᴅᴀ ᴜɴᴛᴜᴋ ʙᴇʀsᴇɴᴀɴɢ sᴇɴᴀɴɢ, ᴅʟʟ_\n\n${tag}`
-let zyko = `*『 𝘡𝘠𝘒𝘖𝘉𝘖𝘛𝘡-𝘔𝘋 𝘔𝘜𝘓𝘛𝘐𝘋𝘌𝘝𝘐𝘊𝘌 』*`
+let zyko = `*『 𝙰𝚍𝚛𝚒𝚊𝚗 𝚇 𝙽𝚊𝚒𝚜𝚊  』*`
 conn.send3ButtonImg(m.chat, `https://telegra.ph/file/60b664b8d25fec519d5c3.jpg`, zyko, kabul, 'All Menu', '.? all', 'List Menu', '.tesm', 'Credit', '.credit', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: 'https://www.instagram.com/kabulsaputra21',
+    mediaUrl: 'https://www.instagram.com/adrianpreset3',
     mediaType: 2, 
     description: sgc,
-    title: 'ᴢ ʏ ᴋ ᴏ ʙ ᴏ ᴛ ᴢ ᴍ ᴅ ᴍ ᴜ ʟ ᴛ ɪ ᴅ ᴇ ᴠ ɪ ᴄ ᴇ',
+    title: '𝙰 𝚍 𝚛 𝚒 𝚊 𝚗 𝚇 𝙽 𝚊 𝚒 𝚜 𝚊',
     body: bottime,
     thumbnail: fs.readFileSync('./thumbnail.jpg'),
     sourceUrl: sig

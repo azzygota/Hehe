@@ -19,9 +19,9 @@ const catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "firstImageId": 1,
 "salePriceAmount1000": "10000000",
 "retailerId": wm,
-"url": "http://wa.me/6281386943282"
+"url": "http://wa.me/6285860928363"
 },
-"businessOwnerJid": "6281386943282@s.whatsapp.net",
+"businessOwnerJid": "6285860928363@s.whatsapp.net",
 }
 }), { userJid: m.chat, quoted: ftroli })    
 
